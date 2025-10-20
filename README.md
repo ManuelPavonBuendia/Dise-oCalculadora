@@ -32,7 +32,7 @@ Los principales problemas al realizar el diseño de la app han sido:
 
 ## 3. Ejecución de la Aplicación
 <p align="center">
-  <img src="capturas/ejecucion.png" alt="DISEÑO APP" width="830">
+  <img src="capturas/ejecucion.png" alt="DISEÑO APP" width="300">
 </p>
 
 ## 4. Código XML del Diseño
