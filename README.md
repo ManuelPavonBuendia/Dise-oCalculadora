@@ -1,6 +1,5 @@
  # Practica Calculadora
 
-# Documentacion Calculadora
 ## Índice
 
 ---
