@@ -26,14 +26,14 @@ Los principales problemas al realizar el diseño de la app han sido:
 
 
 ## 2. Diseño de la Aplicación
-<div style="text-align: center;">
+<p align="center">
   <img src="capturas/diseño.png" alt="DISEÑO APP" width="830">
-</div>
+</p>
 
 ## 3. Ejecución de la Aplicación
-<div style="text-align: center;">
-<img src="capturas/ejecucion.png" alt="DISEÑO APP" width="300">
-</div>
+<p align="center">
+  <img src="capturas/ejecucion.png" alt="DISEÑO APP" width="830">
+</p>
 
 ## 4. Código XML del Diseño
 
